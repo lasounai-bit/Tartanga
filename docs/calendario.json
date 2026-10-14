@@ -1,0 +1,2222 @@
+{
+  "year": "2026-2027",
+  "days": [
+    {
+      "d": "2026-10-12",
+      "t": "hol"
+    },
+    {
+      "d": "2026-11-02",
+      "t": "hol"
+    },
+    {
+      "d": "2026-12-07",
+      "t": "off"
+    },
+    {
+      "d": "2026-12-08",
+      "t": "hol"
+    },
+    {
+      "d": "2026-12-23",
+      "t": "off",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2026-12-24",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2026-12-25",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2026-12-28",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2026-12-29",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2026-12-30",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2026-12-31",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2027-01-01",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2027-01-04",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2027-01-05",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2027-01-06",
+      "t": "hol",
+      "label": {
+        "es": "Vacaciones de Navidad",
+        "eu": "Gabonetako oporrak"
+      }
+    },
+    {
+      "d": "2027-02-08",
+      "t": "off",
+      "label": {
+        "es": "Vacaciones de febrero",
+        "eu": "Otsaileko oporrak"
+      }
+    },
+    {
+      "d": "2027-02-09",
+      "t": "off",
+      "label": {
+        "es": "Vacaciones de febrero",
+        "eu": "Otsaileko oporrak"
+      }
+    },
+    {
+      "d": "2027-02-10",
+      "t": "off",
+      "label": {
+        "es": "Vacaciones de febrero",
+        "eu": "Otsaileko oporrak"
+      }
+    },
+    {
+      "d": "2027-02-11",
+      "t": "off",
+      "label": {
+        "es": "Vacaciones de febrero",
+        "eu": "Otsaileko oporrak"
+      }
+    },
+    {
+      "d": "2027-02-12",
+      "t": "off",
+      "label": {
+        "es": "Vacaciones de febrero",
+        "eu": "Otsaileko oporrak"
+      }
+    },
+    {
+      "d": "2027-03-22",
+      "t": "off",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-03-23",
+      "t": "off",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-03-24",
+      "t": "off",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-03-25",
+      "t": "hol",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-03-26",
+      "t": "hol",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-03-29",
+      "t": "hol",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-03-30",
+      "t": "off",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-03-31",
+      "t": "off",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-04-01",
+      "t": "off",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    },
+    {
+      "d": "2027-04-02",
+      "t": "off",
+      "label": {
+        "es": "Semana Santa",
+        "eu": "Aste Santua"
+      }
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "g": 1,
+      "name": {
+        "es": "1.º curso",
+        "eu": "1. maila"
+      },
+      "desc": {
+        "es": "Primer curso de todos los ciclos formativos.",
+        "eu": "Heziketa ziklo guztietako lehen maila."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-09-07"
+        },
+        {
+          "k": "ev1",
+          "from": "2026-11-24"
+        },
+        {
+          "k": "s1",
+          "from": "2026-12-02"
+        },
+        {
+          "k": "ev2",
+          "from": "2027-03-05"
+        },
+        {
+          "k": "s2",
+          "from": "2027-03-10"
+        },
+        {
+          "k": "f1",
+          "from": "2027-05-24",
+          "to": "2027-05-28"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-06-02"
+        },
+        {
+          "k": "ev3",
+          "from": "2027-06-04"
+        },
+        {
+          "k": "f2",
+          "from": "2027-06-14",
+          "to": "2027-06-18"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-06-21"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "g": 1,
+      "name": {
+        "es": "2.º curso",
+        "eu": "2. maila"
+      },
+      "desc": {
+        "es": "Segundo curso de los ciclos (salvo RAD e IDM, que tienen calendario propio). Desde marzo, formación en empresa.",
+        "eu": "Zikloetako bigarren maila (RAD eta IDM izan ezik, egutegi propioa baitute). Martxotik aurrera, prestakuntza enpresan."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-09-07"
+        },
+        {
+          "k": "ev1",
+          "from": "2026-11-24"
+        },
+        {
+          "k": "s1",
+          "from": "2026-11-25"
+        },
+        {
+          "k": "fin",
+          "from": "2027-02-26"
+        },
+        {
+          "k": "proj",
+          "from": "2027-03-01"
+        },
+        {
+          "k": "fe",
+          "from": "2027-03-02",
+          "to": "2027-06-04"
+        },
+        {
+          "k": "s2",
+          "from": "2027-03-03"
+        },
+        {
+          "k": "f1",
+          "from": "2027-05-24",
+          "to": "2027-05-28"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-06-01"
+        },
+        {
+          "k": "f2",
+          "from": "2027-06-14",
+          "to": "2027-06-16"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-06-21"
+        }
+      ]
+    },
+    {
+      "id": "2RAD",
+      "g": 1,
+      "name": {
+        "es": "2.º curso · RAD",
+        "eu": "2. maila · RAD"
+      },
+      "desc": {
+        "es": "Segundo curso de RAD. Clases hasta finales de enero y formación en empresa de febrero a mayo.",
+        "eu": "RADeko bigarren maila. Klaseak urtarrila amaitu arte eta prestakuntza enpresan otsailetik maiatzera."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-09-07"
+        },
+        {
+          "k": "ev1",
+          "from": "2026-11-10"
+        },
+        {
+          "k": "s1",
+          "from": "2026-11-11"
+        },
+        {
+          "k": "fin",
+          "from": "2027-01-29"
+        },
+        {
+          "k": "proj",
+          "from": "2027-02-01"
+        },
+        {
+          "k": "fe",
+          "from": "2027-02-02",
+          "to": "2027-05-31"
+        },
+        {
+          "k": "s2",
+          "from": "2027-02-03"
+        },
+        {
+          "k": "f1",
+          "from": "2027-05-24",
+          "to": "2027-05-28"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-06-01"
+        },
+        {
+          "k": "f2",
+          "from": "2027-06-14",
+          "to": "2027-06-16"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-06-21"
+        }
+      ]
+    },
+    {
+      "id": "2IDM",
+      "g": 1,
+      "name": {
+        "es": "2.º curso · IDM",
+        "eu": "2. maila · IDM"
+      },
+      "desc": {
+        "es": "Segundo curso de IDM. Clases hasta el 19 de febrero y formación en empresa hasta junio.",
+        "eu": "IDMko bigarren maila. Klaseak otsailaren 19ra arte eta prestakuntza enpresan ekainera arte."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-09-07"
+        },
+        {
+          "k": "ev1",
+          "from": "2026-11-17"
+        },
+        {
+          "k": "s1",
+          "from": "2026-11-18"
+        },
+        {
+          "k": "fin",
+          "from": "2027-02-19"
+        },
+        {
+          "k": "proj",
+          "from": "2027-02-22"
+        },
+        {
+          "k": "fe",
+          "from": "2027-02-23",
+          "to": "2027-06-04"
+        },
+        {
+          "k": "s2",
+          "from": "2027-02-24"
+        },
+        {
+          "k": "f1",
+          "from": "2027-05-24",
+          "to": "2027-05-28"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-06-01"
+        },
+        {
+          "k": "f2",
+          "from": "2027-06-14",
+          "to": "2027-06-16"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-06-21"
+        }
+      ]
+    },
+    {
+      "id": "CE",
+      "g": 2,
+      "name": {
+        "es": "DVRV · IABD · CETI",
+        "eu": "DVRV · IABD · CETI"
+      },
+      "desc": {
+        "es": "Cursos de especialización (grado E). Formación en empresa de marzo a abril.",
+        "eu": "Espezializazio ikastaroak (E gradua). Prestakuntza enpresan martxotik apirilera."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-09-07"
+        },
+        {
+          "k": "ev1",
+          "from": "2026-11-24"
+        },
+        {
+          "k": "s1",
+          "from": "2026-11-25"
+        },
+        {
+          "k": "fin",
+          "from": "2027-02-26"
+        },
+        {
+          "k": "fe",
+          "from": "2027-03-01",
+          "to": "2027-04-21"
+        },
+        {
+          "k": "s2",
+          "from": "2027-03-03"
+        },
+        {
+          "k": "f1",
+          "from": "2027-05-24",
+          "to": "2027-05-28"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-06-01"
+        },
+        {
+          "k": "f2",
+          "from": "2027-06-14",
+          "to": "2027-06-16"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-06-21"
+        }
+      ]
+    },
+    {
+      "id": "CPISO",
+      "g": 3,
+      "name": {
+        "es": "Intervención social",
+        "eu": "Esku-hartze soziala"
+      },
+      "desc": {
+        "es": "Intervención social y mediación en el ámbito comunitario y convivencial. De lunes a viernes desde el 8 de septiembre.",
+        "eu": "Esku-hartze soziala eta bitartekaritza komunitate- eta bizikidetza-eremuan. Astelehenetik ostiralera, irailaren 8tik aurrera."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-09-08"
+        },
+        {
+          "k": "f1",
+          "from": "2027-03-08",
+          "to": "2027-03-10"
+        },
+        {
+          "k": "fin",
+          "from": "2027-03-11"
+        },
+        {
+          "k": "fe",
+          "from": "2027-03-12",
+          "to": "2027-04-27"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-05-05"
+        },
+        {
+          "k": "f2",
+          "from": "2027-05-10",
+          "to": "2027-05-12"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-05-19"
+        }
+      ]
+    },
+    {
+      "id": "CPMCO",
+      "g": 3,
+      "name": {
+        "es": "Comunidad sorda y sordociega",
+        "eu": "Komunitate gorra eta gor-itsua"
+      },
+      "desc": {
+        "es": "Promoción y participación de la comunidad sorda y sordociega. Comienza el 1 de octubre; la 2ª fase arranca el 3 de febrero.",
+        "eu": "Komunitate gorraren eta gor-itsuaren sustapena eta parte-hartzea. Urriaren 1ean hasten da; 2. fasea otsailaren 3an."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-10-01"
+        },
+        {
+          "k": "fase2",
+          "from": "2027-02-03"
+        },
+        {
+          "k": "f1",
+          "from": "2027-05-06",
+          "to": "2027-05-10"
+        },
+        {
+          "k": "fin",
+          "from": "2027-05-11"
+        },
+        {
+          "k": "fe",
+          "from": "2027-05-12",
+          "to": "2027-06-08"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-06-09"
+        },
+        {
+          "k": "f2",
+          "from": "2027-06-14",
+          "to": "2027-06-16"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-06-23"
+        }
+      ]
+    },
+    {
+      "id": "CPSAD1",
+      "g": 3,
+      "name": {
+        "es": "Grabación y tratamiento de datos",
+        "eu": "Datuen grabaketa eta tratamendua"
+      },
+      "desc": {
+        "es": "Actividades de grabación, reproducción y tratamiento de datos y documentos. Comienza el 3 de noviembre, 6 horas al día de lunes a viernes.",
+        "eu": "Datuak eta dokumentuak grabatzeko, erreproduzitzeko eta tratatzeko jarduerak. Azaroaren 3an hasten da, egunean 6 ordu, astelehenetik ostiralera."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-11-03"
+        },
+        {
+          "k": "f1",
+          "from": "2027-02-26",
+          "to": "2027-03-02"
+        },
+        {
+          "k": "fin",
+          "from": "2027-03-03"
+        },
+        {
+          "k": "fe",
+          "from": "2027-03-04",
+          "to": "2027-03-22"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-04-07"
+        },
+        {
+          "k": "f2",
+          "from": "2027-04-12",
+          "to": "2027-04-14"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-04-21"
+        }
+      ]
+    },
+    {
+      "id": "CPAFI3",
+      "g": 3,
+      "name": {
+        "es": "Asistencia a la dirección",
+        "eu": "Zuzendaritzari laguntza"
+      },
+      "desc": {
+        "es": "Asistencia a la dirección en la gestión administrativa y comercial. Comienza el 5 de octubre, de lunes a viernes.",
+        "eu": "Zuzendaritzari laguntza kudeaketa administratibo eta komertzialean. Urriaren 5ean hasten da, astelehenetik ostiralera."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-10-05"
+        },
+        {
+          "k": "f1",
+          "from": "2027-03-15",
+          "to": "2027-03-17"
+        },
+        {
+          "k": "fin",
+          "from": "2027-03-18"
+        },
+        {
+          "k": "fe",
+          "from": "2027-03-19",
+          "to": "2027-04-27"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-05-05"
+        },
+        {
+          "k": "f2",
+          "from": "2027-05-10",
+          "to": "2027-05-12"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-05-19"
+        }
+      ]
+    },
+    {
+      "id": "CPELE",
+      "g": 3,
+      "name": {
+        "es": "Montaje de equipos electrónicos",
+        "eu": "Ekipo elektronikoen muntaketa"
+      },
+      "desc": {
+        "es": "Operaciones auxiliares de montaje y mantenimiento de equipos electrónicos. Comienza el 3 de noviembre, de lunes a viernes.",
+        "eu": "Ekipo elektronikoak muntatzeko eta mantentzeko eragiketa osagarriak. Azaroaren 3an hasten da, astelehenetik ostiralera."
+      },
+      "events": [
+        {
+          "k": "start",
+          "from": "2026-11-03"
+        },
+        {
+          "k": "f1",
+          "from": "2027-01-29",
+          "to": "2027-02-02"
+        },
+        {
+          "k": "fin",
+          "from": "2027-02-03"
+        },
+        {
+          "k": "fe",
+          "from": "2027-02-04",
+          "to": "2027-02-18"
+        },
+        {
+          "k": "sf1",
+          "from": "2027-02-24"
+        },
+        {
+          "k": "f2",
+          "from": "2027-03-01",
+          "to": "2027-03-03"
+        },
+        {
+          "k": "sf2",
+          "from": "2027-03-10"
+        }
+      ]
+    }
+  ],
+  "sessions": [
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "14:00",
+      "f": "ADMON.",
+      "g": "2GAD C"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "14:00",
+      "f": "IMAG. SON.",
+      "g": "2PAE"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "14:00",
+      "f": "INFORMÁTICA",
+      "g": "DVRV / IABD / CETI"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "14:00",
+      "f": "ADMON.",
+      "g": "1GAD A"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "14:00",
+      "f": "IMAG. SON.",
+      "g": "1PAE"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "14:00",
+      "f": "SANIDAD",
+      "g": "1RAD"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "16:00",
+      "f": "SANIDAD",
+      "g": "2LCB"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "16:00",
+      "f": "ADMON.",
+      "g": "2AFI"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "16:00",
+      "f": "ELECTRICIDAD",
+      "g": "2SEA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "16:00",
+      "f": "ELECTRÓNICA",
+      "g": "2STI"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "16:00",
+      "f": "IMAG. SON.",
+      "g": "2A3D"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "16:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAM"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "16:00",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "g": "2QSA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "16:00",
+      "f": "SERV. SOCIO.",
+      "g": "2ISOA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "16:00",
+      "f": "ADMON.",
+      "g": "1AFI"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "16:00",
+      "f": "ELECTRICIDAD",
+      "g": "1IEA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "16:00",
+      "f": "ELECTRÓNICA",
+      "g": "1MEL"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "16:00",
+      "f": "IMAG. SON.",
+      "g": "1A3D"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "16:00",
+      "f": "INFORMÁTICA",
+      "g": "1DAMi"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "16:00",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "g": "1QSA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "16:00",
+      "f": "SANIDAD",
+      "g": "1LCB"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "16:00",
+      "f": "SERV. SOCIO.",
+      "g": "1ISOD"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "17:00",
+      "f": "ADMON.",
+      "g": "2GAD D"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "17:00",
+      "f": "ELECTRICIDAD",
+      "g": "2IEA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "17:00",
+      "f": "ELECTRÓNICA",
+      "g": "2MEL"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "17:00",
+      "f": "IMAG. SON.",
+      "g": "2RPA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "17:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAMi"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "17:00",
+      "f": "SERV. SOCIO.",
+      "g": "2ISOD"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "17:00",
+      "f": "ADMON.",
+      "g": "1GAD D"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "17:00",
+      "f": "ELECTRICIDAD",
+      "g": "1SEA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "17:00",
+      "f": "ELECTRÓNICA",
+      "g": "1STI"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "17:00",
+      "f": "IMAG. SON.",
+      "g": "1SON"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "17:00",
+      "f": "INFORMÁTICA",
+      "g": "1DAMC"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "17:00",
+      "f": "SERV. SOCIO.",
+      "g": "1ISOA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "18:00",
+      "f": "IMAG. SON.",
+      "g": "2SON"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-25",
+      "h": "18:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAW"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-12-02",
+      "h": "18:00",
+      "f": "IMAG. SON.",
+      "g": "1RPA"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-11",
+      "h": "18:00",
+      "f": "SANIDAD",
+      "g": "2RAD"
+    },
+    {
+      "e": "1EB",
+      "d": "2026-11-18",
+      "h": "18:00",
+      "f": "SANIDAD",
+      "g": "2IDM"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "14:00",
+      "f": "ADMON.",
+      "g": "2GAD C"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "14:00",
+      "f": "IMAG. SON.",
+      "g": "2PAE"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "14:00",
+      "f": "INFORMÁTICA",
+      "g": "DVRV / IABD / CETI"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "14:00",
+      "f": "ADMON.",
+      "g": "1GAD A"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "14:00",
+      "f": "IMAG. SON.",
+      "g": "1PAE"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "14:00",
+      "f": "SANIDAD",
+      "g": "1RAD"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "16:00",
+      "f": "SANIDAD",
+      "g": "2LCBe"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "16:00",
+      "f": "ADMON.",
+      "g": "2AFI"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "16:00",
+      "f": "ELECTRICIDAD",
+      "g": "2SEA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "16:00",
+      "f": "ELECTRÓNICA",
+      "g": "2STI"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "16:00",
+      "f": "IMAG. SON.",
+      "g": "2SON"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "16:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAMi"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "16:00",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "g": "2QSA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "16:00",
+      "f": "SERV. SOCIO.",
+      "g": "2ISOD"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "16:00",
+      "f": "ADMON.",
+      "g": "1GADe"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "16:00",
+      "f": "ELECTRICIDAD",
+      "g": "1IEA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "16:00",
+      "f": "ELECTRÓNICA",
+      "g": "1MEL"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "16:00",
+      "f": "IMAG. SON.",
+      "g": "1RPA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "16:00",
+      "f": "INFORMÁTICA",
+      "g": "1DAMi"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "16:00",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "g": "1QSA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "16:00",
+      "f": "SANIDAD",
+      "g": "1LCBe"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "17:00",
+      "f": "ADMON.",
+      "g": "2GADe"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "17:00",
+      "f": "ELECTRICIDAD",
+      "g": "2IEA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "17:00",
+      "f": "ELECTRÓNICA",
+      "g": "2MEL"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "17:00",
+      "f": "IMAG. SON.",
+      "g": "2RPA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "17:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAM"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "17:00",
+      "f": "SERV. SOCIO.",
+      "g": "2ISOA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "17:00",
+      "f": "ADMON.",
+      "g": "1AFI"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "17:00",
+      "f": "ELECTRICIDAD",
+      "g": "1SEA"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "17:00",
+      "f": "ELECTRÓNICA",
+      "g": "1STI"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "17:00",
+      "f": "IMAG. SON.",
+      "g": "1SON"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "17:00",
+      "f": "INFORMÁTICA",
+      "g": "1DAMC"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "18:00",
+      "f": "IMAG. SON.",
+      "g": "2A3D"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-03",
+      "h": "18:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAW"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-03-10",
+      "h": "18:00",
+      "f": "IMAG. SON.",
+      "g": "1A3D"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-02-03",
+      "h": "18:00",
+      "f": "SANIDAD",
+      "g": "2RAD"
+    },
+    {
+      "e": "2EB",
+      "d": "2027-02-24",
+      "h": "18:00",
+      "f": "SANIDAD",
+      "g": "2IDM"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "16:00",
+      "f": "ADMON.",
+      "g": "2AFI"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "16:00",
+      "f": "ELECTRICIDAD",
+      "g": "2SEA"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "16:00",
+      "f": "ELECTRÓNICA",
+      "g": "2STI"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "16:00",
+      "f": "IMAG. SON.",
+      "g": "2SON"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "16:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAM"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "16:00",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "g": "2QSA"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "16:00",
+      "f": "SERV. SOCIO.",
+      "g": "2ISO1"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "16:00",
+      "f": "ADMON.",
+      "g": "1GADe"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "16:00",
+      "f": "ELECTRICIDAD",
+      "g": "1IEA"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "16:00",
+      "f": "ELECTRÓNICA",
+      "g": "1MEL"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "16:00",
+      "f": "IMAG. SON.",
+      "g": "1A3D"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "16:00",
+      "f": "INFORMÁTICA",
+      "g": "1DAMi"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "16:00",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "g": "1QSA"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "16:00",
+      "f": "SANIDAD",
+      "g": "1LCBe"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "16:00",
+      "f": "SERV. SOCIO.",
+      "g": "1ISO2"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "17:00",
+      "f": "SANIDAD",
+      "g": "2LCBe"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "17:00",
+      "f": "ADMON.",
+      "g": "2GADe"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "17:00",
+      "f": "ELECTRICIDAD",
+      "g": "2IEA"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "17:00",
+      "f": "ELECTRÓNICA",
+      "g": "2MEL"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "17:00",
+      "f": "IMAG. SON.",
+      "g": "2RPA"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "17:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAMi"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "17:00",
+      "f": "SERV. SOCIO.",
+      "g": "2ISO2"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "17:00",
+      "f": "ADMON.",
+      "g": "1AFI"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "17:00",
+      "f": "ELECTRICIDAD",
+      "g": "1SEA"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "17:00",
+      "f": "ELECTRÓNICA",
+      "g": "1STI"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "17:00",
+      "f": "IMAG. SON.",
+      "g": "1SON"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "17:00",
+      "f": "INFORMÁTICA",
+      "g": "1DAMC"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "17:00",
+      "f": "SERV. SOCIO.",
+      "g": "1ISO1"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "18:00",
+      "f": "SANIDAD",
+      "g": "2RAD"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "18:00",
+      "f": "ADMON.",
+      "g": "2GADc"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "18:00",
+      "f": "IMAG. SON.",
+      "g": "2PAE"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "18:00",
+      "f": "INFORMÁTICA",
+      "g": "DVRV / IABD / CETI"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "18:00",
+      "f": "SERV. SOCIO.",
+      "g": "CPISO"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "18:00",
+      "f": "ADMON.",
+      "g": "1GADc"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "18:00",
+      "f": "IMAG. SON.",
+      "g": "1PAE"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "18:00",
+      "f": "SANIDAD",
+      "g": "1RAD"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "19:00",
+      "f": "ADMON.",
+      "g": "CPAFI"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "19:00",
+      "f": "IMAG. SON.",
+      "g": "2A3D"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-01",
+      "h": "19:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAW"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-02",
+      "h": "19:00",
+      "f": "IMAG. SON.",
+      "g": "1RPA"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-05-05",
+      "h": "18:00",
+      "f": "SERV. SOCIO.",
+      "g": "CPISO"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-06-09",
+      "h": "18:00",
+      "f": "SERV. SOCIO.",
+      "g": "CPMCO"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-02-24",
+      "h": "18:00",
+      "f": "ELE-ELO",
+      "g": "CPELE"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-04-07",
+      "h": "18:00",
+      "f": "ADGA",
+      "g": "CPAFI1"
+    },
+    {
+      "e": "1AZ",
+      "d": "2027-05-05",
+      "h": "18:00",
+      "f": "ADGA",
+      "g": "CPAFI3"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "08:00",
+      "f": "ADMON.",
+      "g": "1AFI"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "08:00",
+      "f": "IMAG. SON.",
+      "g": "1A3D"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "08:00",
+      "f": "INFORMÁTICA",
+      "g": "1DAM"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "08:00",
+      "f": "SERV. SOCIO.",
+      "g": "1ISOa"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "09:00",
+      "f": "SANIDAD",
+      "g": "1RAD"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "09:00",
+      "f": "ADMON.",
+      "g": "2AFI"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "09:00",
+      "f": "ELECTRICIDAD",
+      "g": "1IEA"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "09:00",
+      "f": "ELECTRÓNICA",
+      "g": "1STI"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "09:00",
+      "f": "IMAG. SON.",
+      "g": "2A3D"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "09:00",
+      "f": "INFORMÁTICA",
+      "g": "2DAMi"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "09:00",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "g": "1QSA"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "09:00",
+      "f": "SERV. SOCIO.",
+      "g": "2ISOa"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "10:00",
+      "f": "SANIDAD",
+      "g": "1LCBd"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "10:00",
+      "f": "ADMON.",
+      "g": "1GAD"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "10:00",
+      "f": "ELECTRICIDAD",
+      "g": "2IEA"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "10:00",
+      "f": "ELECTRÓNICA",
+      "g": "2STI"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "10:00",
+      "f": "IMAG. SON.",
+      "g": "1RPA"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "10:00",
+      "f": "INFORMÁTICA",
+      "g": "1DAMI"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "10:00",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "g": "2QSA"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "10:00",
+      "f": "SERV. SOCIO.",
+      "g": "2ISOd"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "11:30",
+      "f": "SANIDAD",
+      "g": "2IDM"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "11:30",
+      "f": "ADMON.",
+      "g": "1GADd"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "11:30",
+      "f": "ELECTRICIDAD",
+      "g": "1SEA"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "11:30",
+      "f": "ELECTRÓNICA",
+      "g": "1MEL"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "11:30",
+      "f": "IMAG. SON.",
+      "g": "2RPA"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "11:30",
+      "f": "INFORMÁTICA",
+      "g": "2DAMI"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "11:30",
+      "f": "SERV. SOCIO.",
+      "g": "1ISOd"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "12:30",
+      "f": "SANIDAD",
+      "g": "2LCBd"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "12:30",
+      "f": "ADMON.",
+      "g": "2GAD"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "12:30",
+      "f": "ELECTRICIDAD",
+      "g": "2SEA"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "12:30",
+      "f": "ELECTRÓNICA",
+      "g": "2MEL"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "12:30",
+      "f": "IMAG. SON.",
+      "g": "1SON"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "12:30",
+      "f": "INFORMÁTICA",
+      "g": "2DAW"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "13:30",
+      "f": "SANIDAD",
+      "g": "2RAD"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "13:30",
+      "f": "ADMON.",
+      "g": "2GADd"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "13:30",
+      "f": "IMAG. SON.",
+      "g": "1SON"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "13:30",
+      "f": "INFORMÁTICA",
+      "g": "DRVR"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "14:30",
+      "f": "IMAG. SON.",
+      "g": "1PAE"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "14:30",
+      "f": "INFORMÁTICA",
+      "g": "CETI"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "15:30",
+      "f": "IMAG. SON.",
+      "g": "2PAE"
+    },
+    {
+      "e": "2AZ",
+      "d": "2027-06-21",
+      "h": "15:30",
+      "f": "INFORMÁTICA",
+      "g": "IABD"
+    }
+  ],
+  "groups": [
+    {
+      "g": "2IDM",
+      "f": "SANIDAD",
+      "lvl": "2"
+    },
+    {
+      "g": "2LCB",
+      "f": "SANIDAD",
+      "lvl": "2"
+    },
+    {
+      "g": "2LCBd",
+      "f": "SANIDAD",
+      "lvl": "2"
+    },
+    {
+      "g": "2LCBe",
+      "f": "SANIDAD",
+      "lvl": "2"
+    },
+    {
+      "g": "2RAD",
+      "f": "SANIDAD",
+      "lvl": "2"
+    },
+    {
+      "g": "2AFI",
+      "f": "ADMON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2GAD",
+      "f": "ADMON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2GAD C",
+      "f": "ADMON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2GAD D",
+      "f": "ADMON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2GADc",
+      "f": "ADMON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2GADd",
+      "f": "ADMON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2GADe",
+      "f": "ADMON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2IEA",
+      "f": "ELECTRICIDAD",
+      "lvl": "2"
+    },
+    {
+      "g": "2SEA",
+      "f": "ELECTRICIDAD",
+      "lvl": "2"
+    },
+    {
+      "g": "2MEL",
+      "f": "ELECTRÓNICA",
+      "lvl": "2"
+    },
+    {
+      "g": "2STI",
+      "f": "ELECTRÓNICA",
+      "lvl": "2"
+    },
+    {
+      "g": "2A3D",
+      "f": "IMAG. SON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2PAE",
+      "f": "IMAG. SON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2RPA",
+      "f": "IMAG. SON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2SON",
+      "f": "IMAG. SON.",
+      "lvl": "2"
+    },
+    {
+      "g": "2DAM",
+      "f": "INFORMÁTICA",
+      "lvl": "2"
+    },
+    {
+      "g": "2DAMi",
+      "f": "INFORMÁTICA",
+      "lvl": "2"
+    },
+    {
+      "g": "2DAW",
+      "f": "INFORMÁTICA",
+      "lvl": "2"
+    },
+    {
+      "g": "2QSA",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "lvl": "2"
+    },
+    {
+      "g": "2ISO1",
+      "f": "SERV. SOCIO.",
+      "lvl": "2"
+    },
+    {
+      "g": "2ISO2",
+      "f": "SERV. SOCIO.",
+      "lvl": "2"
+    },
+    {
+      "g": "2ISOA",
+      "f": "SERV. SOCIO.",
+      "lvl": "2"
+    },
+    {
+      "g": "2ISOD",
+      "f": "SERV. SOCIO.",
+      "lvl": "2"
+    },
+    {
+      "g": "1LCB",
+      "f": "SANIDAD",
+      "lvl": "1"
+    },
+    {
+      "g": "1LCBd",
+      "f": "SANIDAD",
+      "lvl": "1"
+    },
+    {
+      "g": "1LCBe",
+      "f": "SANIDAD",
+      "lvl": "1"
+    },
+    {
+      "g": "1RAD",
+      "f": "SANIDAD",
+      "lvl": "1"
+    },
+    {
+      "g": "1AFI",
+      "f": "ADMON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1GAD",
+      "f": "ADMON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1GAD A",
+      "f": "ADMON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1GAD D",
+      "f": "ADMON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1GADc",
+      "f": "ADMON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1GADd",
+      "f": "ADMON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1GADe",
+      "f": "ADMON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1IEA",
+      "f": "ELECTRICIDAD",
+      "lvl": "1"
+    },
+    {
+      "g": "1SEA",
+      "f": "ELECTRICIDAD",
+      "lvl": "1"
+    },
+    {
+      "g": "1MEL",
+      "f": "ELECTRÓNICA",
+      "lvl": "1"
+    },
+    {
+      "g": "1STI",
+      "f": "ELECTRÓNICA",
+      "lvl": "1"
+    },
+    {
+      "g": "1A3D",
+      "f": "IMAG. SON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1PAE",
+      "f": "IMAG. SON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1RPA",
+      "f": "IMAG. SON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1SON",
+      "f": "IMAG. SON.",
+      "lvl": "1"
+    },
+    {
+      "g": "1DAM",
+      "f": "INFORMÁTICA",
+      "lvl": "1"
+    },
+    {
+      "g": "1DAMC",
+      "f": "INFORMÁTICA",
+      "lvl": "1"
+    },
+    {
+      "g": "1DAMi",
+      "f": "INFORMÁTICA",
+      "lvl": "1"
+    },
+    {
+      "g": "1QSA",
+      "f": "SEGURIDAD Y MEDIO AMBIENTE",
+      "lvl": "1"
+    },
+    {
+      "g": "1ISO1",
+      "f": "SERV. SOCIO.",
+      "lvl": "1"
+    },
+    {
+      "g": "1ISO2",
+      "f": "SERV. SOCIO.",
+      "lvl": "1"
+    },
+    {
+      "g": "1ISOA",
+      "f": "SERV. SOCIO.",
+      "lvl": "1"
+    },
+    {
+      "g": "1ISOD",
+      "f": "SERV. SOCIO.",
+      "lvl": "1"
+    },
+    {
+      "g": "CPAFI1",
+      "f": "ADGA",
+      "lvl": "x"
+    },
+    {
+      "g": "CPAFI3",
+      "f": "ADGA",
+      "lvl": "x"
+    },
+    {
+      "g": "CPELE",
+      "f": "ELE-ELO",
+      "lvl": "x"
+    },
+    {
+      "g": "CETI",
+      "f": "INFORMÁTICA",
+      "lvl": "x"
+    },
+    {
+      "g": "DVRV / IABD / CETI",
+      "f": "INFORMÁTICA",
+      "lvl": "x"
+    },
+    {
+      "g": "IABD",
+      "f": "INFORMÁTICA",
+      "lvl": "x"
+    },
+    {
+      "g": "CPISO",
+      "f": "SERV. SOCIO.",
+      "lvl": "x"
+    },
+    {
+      "g": "CPMCO",
+      "f": "SERV. SOCIO.",
+      "lvl": "x"
+    }
+  ],
+  "families": [
+    "SANIDAD",
+    "ADMON.",
+    "ADGA",
+    "ELECTRICIDAD",
+    "ELECTRÓNICA",
+    "ELE-ELO",
+    "IMAG. SON.",
+    "INFORMÁTICA",
+    "SEGURIDAD Y MEDIO AMBIENTE",
+    "SERV. SOCIO."
+  ],
+  "sessLayout": {}
+}
